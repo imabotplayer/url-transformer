@@ -41,7 +41,7 @@ body {
 }
 
 .container #wss {
-    width: 390px;
+    width: 450px;
     margin: 0px;
     border: 1px solid #e6e4e4;
     padding: 5px;
@@ -122,4 +122,9 @@ body {
     100% {
         transform: translateY(50px);
     }
+}
+
+#wdif {
+    text-decoration: none;
+    color: #06C;
 }
